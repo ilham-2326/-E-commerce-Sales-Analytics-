@@ -1,0 +1,4 @@
+customer_segment,unique_customers,total_orders,avg_order_value,total_revenue,pct_of_total_revenue,avg_customer_ltv
+Returning,995,2034,1242.48,2527199.47,43.9,5953.23
+New,943,1871,1275.46,2386394.18,41.5,6082.87
+VIP,486,648,1297.15,840554.98,14.6,6187.61

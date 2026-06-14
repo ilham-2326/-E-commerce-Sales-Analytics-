@@ -1,0 +1,5 @@
+discount_tier,total_orders,avg_quantity,avg_order_value,total_revenue,avg_rating
+"No discount",1917,4.47,1357.44,2602214.8,2.98
+1-10%,1360,4.47,1277.74,1737719.96,2.95
+11-15%,671,4.52,1142.17,766395.22,3.03
+16-20%,605,4.44,1070.77,647818.65,3.06
