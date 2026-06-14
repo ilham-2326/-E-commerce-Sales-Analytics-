@@ -31,10 +31,7 @@ from messy raw data to an interactive dashboard.
 
 ### 3. Power BI Dashboard
 
-<img width="935" height="432" alt="image (1)" src="https://github.com/user-attachments/assets/069b9f9e-df66-4ec4-b2d8-27602612d7c0" />
-<img width="644" height="377" alt="image (2)" src="https://github.com/user-attachments/assets/cb13b028-cd03-4bfa-ba85-beb2ca80e406" />
-<img width="859" height="428" alt="image (3)" src="https://github.com/user-attachments/assets/3da41b42-e0c5-40ae-a043-a4b0957b14b2" />
-
+<img width="574" height="325" alt="image (4)" src="https://github.com/user-attachments/assets/2063da83-c45c-4193-8c96-944ab37b5b47" />
 
 
 ---
